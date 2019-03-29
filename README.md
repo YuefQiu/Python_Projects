@@ -1,0 +1,4 @@
+# Python_Projects
+python程序代码
+homework.py和baiduTools.py为本次提交的作业，其中homework.py为主程序，baiduTools.py里面存放着一些需要用到的函数。
+这次大作业写的程序是有关百度AI人脸识别的相关内容，可以打开本地图片和下载网络图片，并解析图片中的人脸信息。
